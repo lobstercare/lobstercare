@@ -5,7 +5,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/C2ma9si7k8UuY/giphy.gif" alt="Blue Lobster GIF" width="100"/>
 </div>
-## When I code, I rely on
+
+## When I code, I rely on 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
