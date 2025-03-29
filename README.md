@@ -20,8 +20,14 @@
 
 ## I'm passionate about building anything that comes to my mind using different AI tool. I'm a data scientist and a generative AI Engineer 
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lobstercare&theme=radical&no-bg=true&no-frame=true&margin-w=15)
+
+![](https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square)
+
 ## My GitHub contributions summary
 <img src="https://github-readme-stats.vercel.app/api?username=lobstercare&show_icons=true&theme=radical" alt="GitHub Stats" />
 ## My GitHub Stats
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lobstercare&theme=radical)](https://github.com/lobstercare)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobstercare&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lobstercare&theme=radical)
+
