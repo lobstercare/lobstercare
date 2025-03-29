@@ -24,4 +24,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lobstercare&show_icons=true&theme=radical" alt="GitHub Stats" />
 ## My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lobstercare&layout=compact&theme=radical)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lobstercare&theme=radical)](https://github.com/lobstercare)
