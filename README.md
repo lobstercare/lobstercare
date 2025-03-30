@@ -28,6 +28,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lobstercare&show_icons=true&theme=radical" alt="GitHub Stats" />
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobstercare&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lobstercare&theme=radical)
 
